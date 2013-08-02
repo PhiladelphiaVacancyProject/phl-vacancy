@@ -15,5 +15,5 @@ replicating, and storing data? As a starting point for discussion, it would:
 * while at the same time be completely decoupled from any application-specific data
 * provide a way to manage and merge conflicting data -- so data is not overridden
 * provide an interface for the City to verify crowd sourced data and pull it back into their official data store
-be hosted, funded, and managed in some type of relationship with the City to better guarantee longevity, openness, 
+* be hosted, funded, and managed in some type of relationship with the City to better guarantee longevity, openness, 
 and transparency
